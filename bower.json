@@ -1,0 +1,20 @@
+{
+  "name": "react-training",
+  "description": "Pluralsight course: https://app.pluralsight.com/library/courses/react-express-full-stack-app-build/table-of-contents",
+  "main": "index.js",
+  "authors": [
+    "Jorge Nunez"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jnunez17/Building-a-Full-Stack-App-with-React-and-Express",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.1.0"
+  }
+}

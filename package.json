@@ -1,0 +1,31 @@
+{
+  "name": "react-training",
+  "version": "1.0.0",
+  "description": "Pluralsight course: https://app.pluralsight.com/library/courses/react-express-full-stack-app-build/table-of-contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnunez17/Building-a-Full-Stack-App-with-React-and-Express.git"
+  },
+  "author": "Jorge Nunez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnunez17/Building-a-Full-Stack-App-with-React-and-Express/issues"
+  },
+  "homepage": "https://github.com/jnunez17/Building-a-Full-Stack-App-with-React-and-Express#readme",
+  "dependencies": {
+    "browser-sync": "^2.12.12",
+    "browserify": "^13.0.1",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.30",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
